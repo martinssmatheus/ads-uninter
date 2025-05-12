@@ -15,9 +15,25 @@ body{
     margin: 20px auto;            
     max-width: 800px;
     padding: 10px;
-    color: #333;
+    color: #2c2929;
 }
+ .botton{
+    font-size: 20px;             
+    text-align: justify;          
+    font-family: Arial, sans-serif;
+    padding: 10px 20px;
+    border: black;
+    color: black;
+    display: block;
+    margin: 20px auto;
+ }
 
+ #mensagemBotao{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: black;
+ }
 
 .hobies li{
     list-style-type: square;
